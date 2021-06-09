@@ -2,7 +2,7 @@ body{
    
    
         background-image: linear-gradient(lightblue,white,orange,red);
-      padding: 800px;
+      padding: 400px;
       
 }
 .a a{
@@ -125,7 +125,7 @@ border: 2.5px solid#000000;
     font-family:fantasy ;
     border: 2.5px solid#000000;
     top: 120%;
-    left: -500%;
+    left: -430%;
 }
 .employee2{
     border-radius: 20px;
